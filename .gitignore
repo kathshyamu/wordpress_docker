@@ -1,0 +1,12 @@
+# Ignore Docker volumes and logs
+*.log
+*.pid
+*.sock
+.env
+.env.*
+/node_modules
+__pycache__/
+/*.tar
+*.zip
+.vscode/
+.DS_Store
